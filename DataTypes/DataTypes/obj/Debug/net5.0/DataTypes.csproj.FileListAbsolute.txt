@@ -1,0 +1,16 @@
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\4.12.10.2021-Variables, data types, operators\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.exe
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\4.12.10.2021-Variables, data types, operators\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.deps.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\4.12.10.2021-Variables, data types, operators\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.runtimeconfig.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\4.12.10.2021-Variables, data types, operators\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.runtimeconfig.dev.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\4.12.10.2021-Variables, data types, operators\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\4.12.10.2021-Variables, data types, operators\DataTypes\DataTypes\bin\Debug\net5.0\ref\DataTypes.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\4.12.10.2021-Variables, data types, operators\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\4.12.10.2021-Variables, data types, operators\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.csproj.AssemblyReference.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\4.12.10.2021-Variables, data types, operators\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\4.12.10.2021-Variables, data types, operators\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.AssemblyInfoInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\4.12.10.2021-Variables, data types, operators\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.AssemblyInfo.cs
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\4.12.10.2021-Variables, data types, operators\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.csproj.CoreCompileInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\4.12.10.2021-Variables, data types, operators\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\4.12.10.2021-Variables, data types, operators\DataTypes\DataTypes\obj\Debug\net5.0\ref\DataTypes.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\4.12.10.2021-Variables, data types, operators\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\4.12.10.2021-Variables, data types, operators\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.genruntimeconfig.cache
